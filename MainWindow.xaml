@@ -1,0 +1,11 @@
+﻿<syncfusion:ChromelessWindow
+    x:Class="StudySyncfusion.MainWindow" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+    xmlns:local="clr-namespace:StudySyncfusion" 
+    Title="Registration Form Demo"
+    Width="720" Height="420"
+    WindowStartupLocation="CenterScreen">
+    <!-- 窗口内容 -->
+</syncfusion:ChromelessWindow>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNEVsrrvpi0=",
+  "success": true,
+  "projectFilePath": "E:\\CSharpApplication\\StudySyncfusionControls\\StudySyncfusionControls.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChenJie\\.nuget\\packages\\syncfusion.licensing\\34.2.4\\syncfusion.licensing.34.2.4.nupkg.sha512",
+    "C:\\Users\\ChenJie\\.nuget\\packages\\syncfusion.sfinput.wpf\\34.2.4\\syncfusion.sfinput.wpf.34.2.4.nupkg.sha512",
+    "C:\\Users\\ChenJie\\.nuget\\packages\\syncfusion.shared.wpf\\34.2.4\\syncfusion.shared.wpf.34.2.4.nupkg.sha512",
+    "C:\\Users\\ChenJie\\.nuget\\packages\\syncfusion.telemetry\\34.2.4\\syncfusion.telemetry.34.2.4.nupkg.sha512",
+    "C:\\Users\\ChenJie\\.nuget\\packages\\syncfusion.tools.wpf\\34.2.4\\syncfusion.tools.wpf.34.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}

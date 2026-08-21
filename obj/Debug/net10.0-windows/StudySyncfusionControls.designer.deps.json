@@ -1,0 +1,102 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Syncfusion.Licensing/34.2.4": {
+        "runtime": {
+          "lib/net10.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "34.2.4.0",
+            "fileVersion": "34.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.SfInput.WPF/34.2.4": {
+        "dependencies": {
+          "Syncfusion.Licensing": "34.2.4",
+          "Syncfusion.Shared.WPF": "34.2.4",
+          "Syncfusion.Telemetry": "34.2.4"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.SfInput.WPF.dll": {
+            "assemblyVersion": "34.2.4.0",
+            "fileVersion": "34.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Shared.WPF/34.2.4": {
+        "dependencies": {
+          "Syncfusion.Licensing": "34.2.4",
+          "Syncfusion.Telemetry": "34.2.4"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Shared.WPF.dll": {
+            "assemblyVersion": "34.2.4.0",
+            "fileVersion": "34.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Telemetry/34.2.4": {
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Telemetry.dll": {
+            "assemblyVersion": "34.2.4.0",
+            "fileVersion": "34.2.4.0"
+          }
+        }
+      },
+      "Syncfusion.Tools.WPF/34.2.4": {
+        "dependencies": {
+          "Syncfusion.Licensing": "34.2.4",
+          "Syncfusion.Shared.WPF": "34.2.4",
+          "Syncfusion.Telemetry": "34.2.4"
+        },
+        "runtime": {
+          "lib/net10.0-windows7.0/Syncfusion.Tools.WPF.dll": {
+            "assemblyVersion": "34.2.4.0",
+            "fileVersion": "34.2.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Licensing/34.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xoxPdzCamqVWI8uu9poNzhfnAYXDs0nXJXO5dnjECRj6+IF0hPpb8fAjbmAW8cTdsT2gPOEWHr58731naclQpw==",
+      "path": "syncfusion.licensing/34.2.4",
+      "hashPath": "syncfusion.licensing.34.2.4.nupkg.sha512"
+    },
+    "Syncfusion.SfInput.WPF/34.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-voF7MJfkJvm0GfMp34ctsKETG6z1wPnla1tkHjinaRcBMiYhXfzgDOQN3hxvqERK1vsWwI+nuBBS245I7w7L3w==",
+      "path": "syncfusion.sfinput.wpf/34.2.4",
+      "hashPath": "syncfusion.sfinput.wpf.34.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Shared.WPF/34.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3iokRBLNKpFrdDCfSzUqt2zJcY7xEJIqF0Hxpck7lc4m+MeoG/lU5hkzASvsGwFza6acpIs00n17lzeaxA7IaQ==",
+      "path": "syncfusion.shared.wpf/34.2.4",
+      "hashPath": "syncfusion.shared.wpf.34.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Telemetry/34.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZjrU3BzI92QOLsD6saUvDCLvut2MU20x8sGtCupcHwtSpoclBBVBsCzygOlBxBkbJnbNtrwyFAn1RIitbeUewg==",
+      "path": "syncfusion.telemetry/34.2.4",
+      "hashPath": "syncfusion.telemetry.34.2.4.nupkg.sha512"
+    },
+    "Syncfusion.Tools.WPF/34.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JBPmY/GX/DGIOXwUsz6t//45tN0bCTreXDmfNAn7qWS/9bEOE5HNaWt5PEukGJcQFSKKGS6N7LXwNEdrHDEKVA==",
+      "path": "syncfusion.tools.wpf/34.2.4",
+      "hashPath": "syncfusion.tools.wpf.34.2.4.nupkg.sha512"
+    }
+  }
+}
