@@ -12,8 +12,8 @@ namespace StudySyncfusionControls
     {
         public App()
         {
-            AssemblyResolver.LicenseKeyLocator.FindandRegisterLicenseKey();
-            //Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1JAaF1cX2hAYVF2WmFZfVhgdl9CZlZUR2YuP1ZhSXxVdk1hWH9dcndVRmRfUEV9XEY=");
+            //AssemblyResolver.LicenseKeyLocator.FindandRegisterLicenseKey();
+            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Ngo9BigBOggjHTQxAR8/V1JAaF1cX2hAYVF2WmFZfVhgdl9CZlZUR2YuP1ZhSXxVdk1hWH9dcndVRmRfUEV9XEY=");
         }
     }
 
